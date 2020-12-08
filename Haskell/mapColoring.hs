@@ -1,7 +1,7 @@
 module Main where
 
 colours = ["red", "green", "blue"]
-label = [((alabama, mississippi, georgia, tennessee, florida) |
+label = [(alabama, mississippi, georgia, tennessee, florida) |
   alabama <- colours,
   mississippi <- colours,
   georgia <- colours,
